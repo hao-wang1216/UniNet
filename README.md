@@ -1,4 +1,1 @@
-# UniNet
-Unify: Towards a Multimodal Foundation Model for Camouflaged Object Segmentation.
-
-The code will be expeditiously uploaded to this openly accessible repository once the paper is accepted.
+A multimodal camouflaged object detection algorithm that leverages complementary cues from different modalities to improve segmentation performance in complex scenes.
